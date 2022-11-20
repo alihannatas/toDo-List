@@ -1,0 +1,27 @@
+img {
+  width: 600px;
+  background-color: yellowgreen;
+}
+
+.list {
+  width: 600px;
+}
+
+.toDoText {
+  width: 600px;
+}
+
+#iconForDelete {
+  float: right;
+}
+
+#toDo {
+  display: block;
+  background-color: yellowgreen;
+}
+
+#ok {
+  display: block;
+  text-decoration: line-through;
+  background-color: orange;
+}
